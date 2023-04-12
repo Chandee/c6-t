@@ -1,0 +1,20 @@
+#root {
+  min-width: 360px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.myHeader{
+  text-align: left;
+  border-bottom: 1px solid black;
+  padding: 0 16px;
+}
+
+.App{
+  width: auto;
+  border: 1px solid black;
+}
+
+.content{
+  padding: 32px;  
+}

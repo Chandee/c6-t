@@ -1,0 +1,8 @@
+.titulo{
+  text-align: center;
+}
+
+.centralizar{
+  display: block !important;
+  margin: auto !important;
+}
